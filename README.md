@@ -11,7 +11,7 @@ Este projeto é um mercado de imóveis implementado utilizando a Ethereum blockc
 
 1. Clone o repositório:
 
-´´´shell
+```shell
 git clone https://github.com/seu_usuario/meu-imovel-tokenizado-frontend.git
 cd meu-imovel-tokenizado-frontend
-´´´
+```
